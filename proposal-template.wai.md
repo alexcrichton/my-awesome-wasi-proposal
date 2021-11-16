@@ -15,6 +15,7 @@
 record api_type_one {
     property_1: u64,
     property_2: string,
+    property_3: list<u8>,
 }
 ```
 
